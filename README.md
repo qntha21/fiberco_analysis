@@ -7,6 +7,5 @@ https://public.tableau.com/app/profile/q.nurlina.t/viz/FiberCo_Analysis/Dashboar
 
 ## Environment
 
-PostgreSQL 16, queried via DBeaver. Source CSVs were loaded without a predefined schema, so queries cast column types explicitly.
+PostgreSQL 16, queried via DBeaver.
 
-Prepared by Quratul N.O Thaher, September 2026.
